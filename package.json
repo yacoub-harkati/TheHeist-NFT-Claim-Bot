@@ -1,0 +1,22 @@
+{
+	"name": "the_heist_claimbot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@solana/web3.js": "^1.78.0",
+		"axios": "^1.4.0",
+		"dotenv": "^16.3.1",
+		"figlet": "^1.6.0",
+		"nanospinner": "^1.1.0",
+		"set-cookie-parser": "^2.6.0",
+		"tweetnacl": "^1.0.3"
+	}
+}
